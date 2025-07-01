@@ -42,3 +42,5 @@ The development process involved stages such as initial planning, coding the var
 ## How to Run the Program
 
 To run you must press the run button on the console.
+
+See the "programming" file to observe the code used.
